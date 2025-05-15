@@ -1,4 +1,4 @@
-## Hi there 👋
+## I use arch btw.
 
 
 
