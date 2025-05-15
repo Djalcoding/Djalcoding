@@ -17,10 +17,6 @@ I am currently part of the 3990 First Robotics Challenge team as a sophmore.
     - Kotlin
     - C#
     - Python
-## What I do : 
-  
-
-
 
 ## Contacts :
   
