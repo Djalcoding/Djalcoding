@@ -1,29 +1,29 @@
-**I use**          -`   btw
-                  .o+`
-                 `ooo/
-                `+oooo:
-               `+oooooo:
-               -+oooooo+:
-             `/:-:++oooo+:
-            `/++++/+++++++:
-           `/++++++++++++++:
-          `/+++ooooooooooooo/`
-         ./ooosssso++osssssso+`
-        .oossssso-````/ossssss+`
-       -osssssso.      :ssssssso.
-      :osssssss/        osssso+++.
-     /ossssssss/        +ssssooo/-
-   `/ossssso+/:-        -:/+osssso+-
-  `+sso+:-`                 `.-/+oso:
- `++:.                           `-/+/
- .`                                 `
+> I use Arch btw
+
+Hello, I am a **⚜️ french canadian ⚜️** from Québec.
+
+I am at the young age of fifteen.
+
+I am currently part of the 3990 First Robotics Challenge team as a sophmore.
+
+
+## Skills
+  I would like to say I have any but I don't
+## Familiarities
+  I am familiar with a few programming languages and those are : 
+    - C and C++
+    - Rust
+    - Java
+    - Kotlin
+    - C#
+    - Python
+## What I do : 
   
 
 
 
-
-
 ## Contacts :
+  
   [Leetcode Account](https://leetcode.com/u/DjalLovesCode/)
 
 <!--
