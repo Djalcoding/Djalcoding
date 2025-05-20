@@ -6,18 +6,6 @@ I am at the young age of fifteen.
 
 I am currently part of the 3990 First Robotics Challenge team as a sophmore.
 
-
-## Skills
-  I would like to say I have any but I don't
-## Familiarities
-  I am familiar with a few programming languages and those are : 
-    - C and C++
-    - Rust
-    - Java
-    - Kotlin
-    - C#
-    - Python
-
 ## Contacts :
   
   [Leetcode Account](https://leetcode.com/u/DjalLovesCode/)
