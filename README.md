@@ -1,8 +1,6 @@
 > I use Arch btw
 
-Hello, I am a **⚜️ french canadian ⚜️** from Québec.
-
-I am at the young age of fifteen.
+Hello, I am a **⚜️ french canadian ⚜️**.
 
 I am currently part of the 3990 First Robotics Challenge team as a sophmore.
 
