@@ -2,7 +2,7 @@
 
 Hello, I am a **⚜️ french canadian ⚜️**.
 
-I am currently part of the 3990 First Robotics Challenge team as a sophmore.
+I am currently part of the 3990 First Robotics Challenge team as a senior.
 
 ## Contacts :
   
