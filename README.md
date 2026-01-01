@@ -1,24 +1,8 @@
 > I use Arch btw
 
-Hello, I am a **⚜️ french canadian ⚜️**.
-
 I am currently part of the 3990 First Robotics Challenge team.
 
-## Contacts :
-  
-  [Leetcode Account](https://leetcode.com/u/DjalLovesCode/)
+## Other Platforms :
+  [Crates.io](https://crates.io/users/Djalcoding)
+  [Leetcode](https://leetcode.com/u/DjalLovesCode/)
 
-<!--
-**Djalcoding/Djalcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
